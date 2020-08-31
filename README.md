@@ -13,4 +13,6 @@
     * Método loginValidation: tenta realizar login. 
 * RunTest: executa 2 casos de teste, utilizando os métodos da classe LoginScreen
 
+* Rápido overview do projeto em https://youtu.be/KMlKkQYhZzc
+
 *Template adaptado de https://github.com/sridharbandi/Selenium-Junit-Template *. As classes DriverFactory e DriverType foram adaptadas para executar o navegador Google Chrome.
