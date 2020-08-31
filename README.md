@@ -6,7 +6,7 @@
 * Selecionar a pasta que contém o projeto descompactado e opção "Finish"
 * Dentro do pacote "com.base2.selenium.tests", executar a classe RunTest.java como JUnit Test;
 
-### Classes:
+### Conteúdo das classes:
 * GoToPage: acessa a pagina https://mantis-prova.base2.com.br/ e maximiza a tela
 * LoginScreen: valida página de login
     * Método loginFieldsValidation: valida texto dos campos;
@@ -15,4 +15,4 @@
 
 * Rápido overview do projeto em https://youtu.be/KMlKkQYhZzc
 
-*Template adaptado de https://github.com/sridharbandi/Selenium-Junit-Template *. As classes DriverFactory e DriverType foram adaptadas para executar o navegador Google Chrome.
+*Template adaptado de https://github.com/sridharbandi/Selenium-Junit-Template * (utilizando apenas Maven). As classes DriverFactory e DriverType foram adaptadas para executar o WebDriver somente para o navegador Google Chrome.
